@@ -3,6 +3,34 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0,
+        "red": 0.1081861413043477
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1790081521739131,
+        "green": 1,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0,
+        "red": 0.8923233695652169
+      }
     ],
     "gradients": [
     ],
