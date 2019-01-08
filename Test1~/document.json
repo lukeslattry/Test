@@ -14,13 +14,10 @@
     "images": [
     ]
   },
-  "colorSpace": 0,
   "do_objectID": "2d560820-1338-11e9-bae1-2db576ff13a3",
-  "foreignLayerStyles": [
-  ],
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
   "foreignSymbols": [
-  ],
-  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -28,9 +25,9 @@
     ]
   },
   "meta": {
-    "appVersion": "52.4",
-    "build": 67378,
-    "version": 112
+    "appVersion": "52.4.0",
+    "build": 43514,
+    "version": 93
   },
   "pages": [
     "Page 1"
